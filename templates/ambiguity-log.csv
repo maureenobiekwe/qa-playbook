@@ -1,0 +1,2 @@
+AMB ID,Type,Summary,Doc A (section),Doc B (section),What each says,Blocking (Y/N),Assumption if unresolved,Raised to,Status,Answer so far,Answered by,Date,Ticket/design updated?
+AMB-001,Contradiction,Short summary of the conflict,Document and section,Document and section,Quote both sides exactly,Y,What I will assume and test against until told otherwise,Name or role,Open,,,,n/a

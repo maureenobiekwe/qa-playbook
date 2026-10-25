@@ -1,0 +1,21 @@
+{
+  "env": {
+    "QA_CONTEXT_FILE": "/path/to/your/context.md"
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          { "type": "command", "command": "python /path/to/hooks/load-context.py", "timeout": 15 }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          { "type": "command", "command": "python /path/to/hooks/update-context.py", "timeout": 15 }
+        ]
+      }
+    ]
+  }
+}
