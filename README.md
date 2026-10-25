@@ -4,6 +4,11 @@ How I approach QA on a product before and during testing: reading specs for gaps
 
 Everything here is method and templates. The worked example uses an invented product (LearnLoop, an online course platform). No real client, ticket or data appears in this repository.
 
+You can check out other repos: https://github.com/maureenobiekwe/qa-autopilot
+
+https://github.com/maureenobiekwe/qa-automation-framework
+
+
 ## What is in it
 
 | Folder | What it gives you |
