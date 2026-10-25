@@ -4,10 +4,7 @@ How I approach QA on a product before and during testing: reading specs for gaps
 
 Everything here is method and templates. The worked example uses an invented product (LearnLoop, an online course platform). No real client, ticket or data appears in this repository.
 
-You can check out other repos: https://github.com/maureenobiekwe/qa-autopilot
-
-https://github.com/maureenobiekwe/qa-automation-framework
-
+**Related repositories:** [qa-automation-framework](https://github.com/maureenobiekwe/qa-automation-framework) (UI, API, accessibility, performance and CI tests) · [qa-autopilot](https://github.com/maureenobiekwe/qa-autopilot) (goal in, tested and reported out: an AI-assisted test pipeline)
 
 ## What is in it
 
